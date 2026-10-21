@@ -36,14 +36,90 @@ Medical Insurance Fraud Detection | Python, Pandas ,seaborn | 10,000 Rows, 16 Co
 ## 📈 Visualizations
 1. Histogram - claim_amt distribution
 
-<img width="1280" height="473" alt="WhatsApp Image 2026-10-21 at 4 10 04 PM" src="https://github.com/user-attachments/assets/11923a6e-eeea-40a2-8774-26a87d744265" />
-
-
-2.KDE Plot -
+<img width="813" height="586" alt="WhatsApp Image 2026-10-21 at 4 10 01 PM" src="https://github.com/user-attachments/assets/5c46ef41-3a34-45d5-91b8-bd31dbdd8595" />
 
 
 
-3.BOX Plot -
+
+
+2.KDE Plot -Age distribution
+
+
+
+<img width="822" height="586" alt="WhatsApp Image 2026-10-21 at 4 10 01 PM (1)" src="https://github.com/user-attachments/assets/941a7dda-c191-471f-9e49-e8dba4b83602" />
+
+
+
+
+3.BOX Plot - claim_amt
+
+
+
+<img width="847" height="520" alt="WhatsApp Image 2026-10-21 at 4 10 02 PM" src="https://github.com/user-attachments/assets/706777fc-b27d-430d-8199-0469f683bc9b" />
+
+
+
+
+4.COUNT PLOT - stay category
+
+
+
+
+<img width="819" height="580" alt="WhatsApp Image 2026-10-21 at 4 10 02 PM (2)" src="https://github.com/user-attachments/assets/6f036714-0da1-465b-a436-054329ccba57" />
+
+
+
+
+5.CORRELATION HEATMAP 
+
+
+
+<img width="927" height="711" alt="WhatsApp Image 2026-10-21 at 4 10 03 PM (1)" src="https://github.com/user-attachments/assets/3454ce09-fc61-475a-a41e-72e713f901cc" />
+
+
+
+
+6. SCATTER PLOT
+
+   
+
+   <img width="931" height="586" alt="WhatsApp Image 2026-10-21 at 4 10 03 PM" src="https://github.com/user-attachments/assets/36c91126-79fe-4091-a7ab-10bc2a255221" />
+
+
+   
+
+7. BAR CHART - hospital type analysis
+
+   
+
+   <img width="1280" height="473" alt="WhatsApp Image 2026-10-21 at 4 10 04 PM" src="https://github.com/user-attachments/assets/72055130-cb43-4c03-8c47-3e0626ac7f44" />
+
+   
+   
+8. INTERACTIVE SCATTER CHART-Fraud detection
+
+    
+   
+   -<img width="1280" height="474" alt="WhatsApp Image 2026-10-21 at 4 10 03 PM (3)" src="https://github.com/user-attachments/assets/23f8fa9a-05fc-47b7-a77a-e5d6d8351e33" />
+
+   
+
+   9.CATEGORICAL VS NUMERICAL BOX PLOT
+
+   
+
+   <img width="769" height="468" alt="WhatsApp Image 2026-10-21 at 4 10 03 PM (2)" src="https://github.com/user-attachments/assets/3c68011a-36e4-4093-925e-be7818d2edb4" />
+
+
+   
+
+10.BAR CHART
+
+
+
+
+<img width="862" height="558" alt="WhatsApp Image 2026-10-21 at 4 10 02 PM (1)" src="https://github.com/user-attachments/assets/f414e45e-f224-4a5e-8ffc-8b5bf63aa991" />
+
 
 
 
