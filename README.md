@@ -36,15 +36,16 @@ Medical Insurance Fraud Detection | Python, Pandas ,seaborn | 10,000 Rows, 16 Co
 ## 📈 Visualizations
 1. Histogram - claim_amt distribution
 
-<img width="931" height="586" alt="WhatsApp Image 2026-10-21 at 4 10 03 PM" src="https://github.com/user-attachments/assets/e90a960c-0043-45a4-ad70-2ab2632f72d7" />
+<img width="1280" height="473" alt="WhatsApp Image 2026-10-21 at 4 10 04 PM" src="https://github.com/user-attachments/assets/11923a6e-eeea-40a2-8774-26a87d744265" />
+
 
 2.KDE Plot -
 
-<img width="927" height="711" alt="WhatsApp Image 2026-10-21 at 4 10 03 PM (1)" src="https://github.com/user-attachments/assets/6f8cd2d9-cbbb-461d-be18-a7632dec535e" />
+
 
 3.BOX Plot -
 
-<img width="847" height="520" alt="WhatsApp Image 2026-10-21 at 4 10 02 PM" src="https://github.com/user-attachments/assets/9f581994-7904-4b69-9be6-ffa4190f3bbe" />
+
 
 
 ## 💡 Conclusion
